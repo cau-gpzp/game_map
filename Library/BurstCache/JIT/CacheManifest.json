@@ -3,7 +3,7 @@
   "Assemblies": [
     {
       "FullName": "Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-      "LastWriteTime": "2021-11-25T14:22:29.4899503Z"
+      "LastWriteTime": "2021-11-29T04:22:08.206802Z"
     },
     {
       "FullName": "mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
@@ -15,7 +15,7 @@
     },
     {
       "FullName": "Unity.Barracuda, Version=1.0.4.0, Culture=neutral, PublicKeyToken=null",
-      "LastWriteTime": "2021-11-25T14:22:36.7755974Z"
+      "LastWriteTime": "2021-11-29T04:22:11.873631Z"
     },
     {
       "FullName": "mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
@@ -23,7 +23,7 @@
     },
     {
       "FullName": "Unity.Barracuda.BurstBLAS, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-      "LastWriteTime": "2021-11-25T14:22:50.1726857Z"
+      "LastWriteTime": "2021-11-29T04:22:23.561711Z"
     }
   ],
   "Functions": [
@@ -48,10 +48,10 @@
       ]
     },
     {
-      "FullName": "System.Void Unity.Jobs.IJobExtensions/JobStruct`1<Unity.Barracuda.BurstCPUOps/CopyJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
+      "FullName": "System.Void Unity.Jobs.IJobExtensions/JobStruct`1<Unity.Barracuda.BurstCPUOps/ZeroBroadcastJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
       "ModuleOptionsHash": 11834165633931345063,
-      "ModuleHash": "4fdd34bd9953f46766c41d9e9e9dfca6",
-      "LinkName": "B679BCA8E17D18D0",
+      "ModuleHash": "3302430d531790681f6f8a97a1857309",
+      "LinkName": "910D00C108C9ACD0",
       "AssemblyDependencyIndices": [
         2,
         3,
@@ -60,10 +60,10 @@
       ]
     },
     {
-      "FullName": "System.Void Unity.Jobs.IJobExtensions/JobStruct`1<Unity.Barracuda.BurstCPUOps/ZeroBroadcastJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
+      "FullName": "System.Void Unity.Jobs.IJobExtensions/JobStruct`1<Unity.Barracuda.BurstCPUOps/CopyJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
       "ModuleOptionsHash": 11834165633931345063,
-      "ModuleHash": "3302430d531790681f6f8a97a1857309",
-      "LinkName": "910D00C108C9ACD0",
+      "ModuleHash": "4fdd34bd9953f46766c41d9e9e9dfca6",
+      "LinkName": "B679BCA8E17D18D0",
       "AssemblyDependencyIndices": [
         2,
         3,
